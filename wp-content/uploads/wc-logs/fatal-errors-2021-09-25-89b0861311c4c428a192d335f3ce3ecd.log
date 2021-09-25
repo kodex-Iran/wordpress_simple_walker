@@ -1,0 +1,12 @@
+2021-09-25T08:53:56+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) در D:\xampp\htdocs\wordpress_walker\wp-content\themes\storefront\inc\storefront-template-functions.php روی خط 267
+
+2021-09-25T08:55:56+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) در D:\xampp\htdocs\wordpress_walker\wp-content\themes\storefront\inc\storefront-template-functions.php روی خط 267
+
+2021-09-25T08:57:57+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) در D:\xampp\htdocs\wordpress_walker\wp-content\themes\storefront\inc\storefront-template-functions.php روی خط 269
+
+2021-09-25T08:59:26+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) در D:\xampp\htdocs\wordpress_walker\wp-content\themes\storefront\inc\storefront-template-functions.php روی خط 279
+
+2021-09-25T09:00:27+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) در D:\xampp\htdocs\wordpress_walker\wp-content\themes\storefront\inc\storefront-template-functions.php روی خط 279
+
+2021-09-25T09:28:29+00:00 CRITICAL syntax error, unexpected ')', expecting '(' در D:\xampp\htdocs\wordpress_walker\wp-content\themes\storefront\inc\walker.php روی خط 18
+
